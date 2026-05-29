@@ -1,4 +1,4 @@
-<h1>AI-Prompts</h1>🔍💻
+<h1>AI-Prompts🔍💻</h1>
                 Prompt # 01
 
 <b>What..?</b> <br>
