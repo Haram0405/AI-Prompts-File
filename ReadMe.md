@@ -1,6 +1,11 @@
 <h1>AI-Prompts🔍💻</h1>
 
-              <h2>  Prompt # 01  </h2>
+RULE:👇🏻<br><br>
+• WHAT — clearly state what you want the AI to do/produce.
+• HOW — specify the format, tone, length, or style of the output.
+• WHY — give context: who you are, what it's for, why you need it.
+
+                Prompt # 01
 
 <b>What..?</b> <br>
     Build a dashboard of ecommerce website<br><br>
