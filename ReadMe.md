@@ -1,19 +1,19 @@
                 Prompt # 01
 
-What..? <br>
-    Build a dashboard of ecommerce website<br>
-How..?
+What..? <br><br>
+    Build a dashboard of ecommerce website
+How..?<br><br>
     Theme should be dark and aesthetic,visual should be clear and attractive
-Why..?
+Why..?<br><br>
     I'm a website developer wants to build a user friendly design.
 
                 Prompt # 02
 
-What..?
+What..?<br><br>
     Create content for a presentation about use of ai tools
-How..?
+How..?<br><br>
     Use simple wording, clear headings and short points
-Why..?
+Why..?<br><br>
     I need to prepare for my bootcamp traning session/class
                 
                 Prompt # 03
