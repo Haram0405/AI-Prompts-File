@@ -1,6 +1,6 @@
                 Prompt # 01
 
-What..? <br>
+<b>What..?</b> <br>
     Build a dashboard of ecommerce website<br><br>
 How..?<br>
     Theme should be dark and aesthetic,visual should be clear and attractive<br><br>
