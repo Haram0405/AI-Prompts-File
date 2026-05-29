@@ -28,8 +28,17 @@ Why..?
                 Prompt # 04
                 
 What..?
-    Create a hair salon Bisiness card
+    Create a hair salon Business card
 How..?
-    Make them concise with each and every detail with proper points and examples
+    Make it attractice, theme should be calm and clear(light green color or light beige),should have unique design and premium look
 Why..?
-    I'm a computer science student want to enhance my knowledge about coding.
+     I want a professional and visual appealing business card deisn for a salon.
+
+                Prompt # 05
+
+What..?
+        Suggest 3 beginner friendly react project ideas
+How..?
+    In bullets with short explanation and example
+Why..?
+    I'm currently learning react.js so I want to build projects for my practice and linkedin profile.
