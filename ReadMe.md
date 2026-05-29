@@ -1,6 +1,6 @@
 <h1>AI-Prompts🔍💻</h1>
 
-                Prompt # 01
+              <h2>  Prompt # 01  </h2>
 
 <b>What..?</b> <br>
     Build a dashboard of ecommerce website<br><br>
