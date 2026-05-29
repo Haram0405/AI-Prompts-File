@@ -1,9 +1,9 @@
 <h1>AI-Prompts🔍💻</h1>
 
-RULE:👇🏻<br><br>
-• WHAT — clearly state what you want the AI to do/produce.
-• HOW — specify the format, tone, length, or style of the output.
-• WHY — give context: who you are, what it's for, why you need it.
+<h2>RULE:👇🏻</h2><br><br>
+• WHAT — clearly state what you want the AI to do/produce.<br><br>
+• HOW — specify the format, tone, length, or style of the output.<br><br>
+• WHY — give context: who you are, what it's for, why you need it.<br>
 
                 Prompt # 01
 
