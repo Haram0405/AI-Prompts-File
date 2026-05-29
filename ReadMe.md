@@ -24,3 +24,12 @@ How..?
     Make them concise with each and every detail with proper points and examples
 Why..?
     I'm a computer science student want to enhance my knowledge about coding.
+                
+                Prompt # 04
+                
+What..?
+    Create a hair salon Bisiness card
+How..?
+    Make them concise with each and every detail with proper points and examples
+Why..?
+    I'm a computer science student want to enhance my knowledge about coding.
